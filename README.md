@@ -8,6 +8,9 @@
 
 ---
 
+<img width="1200" height="950" alt="2026-10-29_021440" src="https://github.com/user-attachments/assets/970b450d-db13-4bf9-87f6-c98c4acc9bd9" />
+
+
 ## 功能
 
 | 功能 | 說明 |
