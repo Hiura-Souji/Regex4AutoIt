@@ -236,3 +236,5 @@ RefreshWebViews()  ── 非同步把最新 HTML 送進 WebView（失敗 20 次
 ---
 
 **格雷資訊** · [grayfree.tw](https://www.grayfree.tw/)
+
+<a href="https://portaly.cc/grayfree/support"><img src="donate_badge.png" alt="贊助作者" width="164"></a>
