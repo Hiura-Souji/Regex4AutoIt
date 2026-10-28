@@ -1,6 +1,6 @@
 ﻿#Region ;**** 由 AutoIt3Wrapper_GUI 建立的指令 ****
 #AutoIt3Wrapper_Version=Beta
-#AutoIt3Wrapper_Icon=edit.ico
+#AutoIt3Wrapper_Icon=regex.ico
 #AutoIt3Wrapper_Compression=4
 #AutoIt3Wrapper_UseUpx=y
 #AutoIt3Wrapper_UseX64=n
